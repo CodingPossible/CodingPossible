@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingPossible
-- 👀 I’m interested in Java, Kotlin, Android Development
-- 🌱 I’m currently learning/refreshing my knowledge of Java and CS after years away
+- 👀 I’m interested in data structures & systems
+- 🌱 I’m currently learning and refreshing my knowledge after years away
 
 <!--- 
 - 💞️ I’m looking to collaborate on ...

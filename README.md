@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodingPossible
 - 👀 I’m interested in data structures & systems
-- 🌱 I’m currently learning and refreshing my knowledge after years away
+- 🌱 I’m currently learning and refreshing my knowledge
 
 <!--- 
 - 💞️ I’m looking to collaborate on ...
